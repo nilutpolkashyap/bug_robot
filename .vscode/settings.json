@@ -1,0 +1,28 @@
+{
+    "python.autoComplete.extraPaths": [
+        "/home/nilutpolk/temp_ws/build/self_driving_car_pkg",
+        "/home/nilutpolk/temp_ws/install/self_driving_car_pkg/lib/python3.10/site-packages",
+        "/home/nilutpolk/temp_ws/build/ros2_py_pkg",
+        "/home/nilutpolk/temp_ws/install/ros2_py_pkg/lib/python3.10/site-packages",
+        "/home/nilutpolk/temp_ws/install/py_ros2_pkg/local/lib/python3.10/dist-packages",
+        "/home/nilutpolk/temp_ws/build/my_ros2_python_pkg",
+        "/home/nilutpolk/temp_ws/install/my_ros2_python_pkg/lib/python3.10/site-packages",
+        "/home/nilutpolk/temp_ws/install/my_custom_interfaces/local/lib/python3.10/dist-packages",
+        "/home/nilutpolk/temp_ws/install/cpp_ros2_pkg/local/lib/python3.10/dist-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ],
+    "python.analysis.extraPaths": [
+        "/home/nilutpolk/temp_ws/build/self_driving_car_pkg",
+        "/home/nilutpolk/temp_ws/install/self_driving_car_pkg/lib/python3.10/site-packages",
+        "/home/nilutpolk/temp_ws/build/ros2_py_pkg",
+        "/home/nilutpolk/temp_ws/install/ros2_py_pkg/lib/python3.10/site-packages",
+        "/home/nilutpolk/temp_ws/install/py_ros2_pkg/local/lib/python3.10/dist-packages",
+        "/home/nilutpolk/temp_ws/build/my_ros2_python_pkg",
+        "/home/nilutpolk/temp_ws/install/my_ros2_python_pkg/lib/python3.10/site-packages",
+        "/home/nilutpolk/temp_ws/install/my_custom_interfaces/local/lib/python3.10/dist-packages",
+        "/home/nilutpolk/temp_ws/install/cpp_ros2_pkg/local/lib/python3.10/dist-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ]
+}

@@ -1,0 +1,28 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/home/nilutpolk/temp_ws/install/py_ros2_pkg/include/**",
+        "/home/nilutpolk/temp_ws/install/my_custom_interfaces/include/**",
+        "/home/nilutpolk/temp_ws/install/cpp_ros2_pkg/include/**",
+        "/opt/ros/humble/include/**",
+        "/home/nilutpolk/temp_ws/src/core0_cpp_robot/core0_cpp_robot/include/**",
+        "/home/nilutpolk/temp_ws/src/cpp_ros2_pkg/include/**",
+        "/home/nilutpolk/temp_ws/src/industrial_amr_ros2/pickup_assist_description/include/**",
+        "/home/nilutpolk/temp_ws/src/py_ros2_pkg/include/**",
+        "/home/nilutpolk/temp_ws/src/ros2_urdf/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}
